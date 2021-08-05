@@ -1,0 +1,12 @@
+As 10 palavras que mais aparecem no livro são:
+
+('the', 4066)
+('and', 2969)
+('of', 2746)
+('I', 2719)
+('to', 2144)
+('my', 1631)
+('a', 1394)
+('', 1186)
+('in', 1129)
+('was', 994)
